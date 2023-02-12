@@ -1,0 +1,47 @@
+.app{
+    text-align: center;
+    background-color: azure;
+    color: blue;
+    font-size: 50px;
+}
+.appTest{
+    text-align: center;
+    background-color: azure;
+    color: blue;
+    font-size: 20px; 
+    margin-top: 20px; 
+}
+.appComment{
+    text-align: center;
+    background-color: azure;
+    color: blue;
+    font-size: 20px; 
+    margin-top: 20px; 
+}
+
+
+.appTopic{
+    text-align: center;
+    background-color: azure;
+    color: blue;
+    font-size: 20px; 
+    margin-top: 20px; 
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 750px;
+    font-size: 20px; 
+}
+.btntxt{
+    background-color: azure; 
+}
+
+.testform{
+    border: 5px solid rgb(0, 0, 0);
+    padding-bottom: 200px;
+    border-radius: 5px;
+ 
+}
+.rember{
+    padding-left: 500px;
+}

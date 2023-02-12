@@ -1,0 +1,5 @@
+/*----------css module is that classes are localy scoped vy default----*/
+
+.success{
+    color: blue;
+}
